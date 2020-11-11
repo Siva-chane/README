@@ -1,3 +1,3 @@
 # README
 Mon premier référentiel
-phrase de test
+phrase de test.
